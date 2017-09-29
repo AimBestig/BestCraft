@@ -1,2 +1,2 @@
-# BestCraft
-hh
+# HardCraft
+Servidor HardCraft El Mejor
